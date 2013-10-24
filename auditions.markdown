@@ -5,15 +5,15 @@ banner: /images/slideshow/004.jpg
 ---
 
 ## Auditions
-
+<!--
 <div class="auditions">
 <a href="https://wass.princeton.edu/pages/viewcalendar.page.php?cal_id=1134" id="auditions_button" target="_blank">Sign up now!</a>
 </div>
-
+-->
 ### Audition Schedule
 
 All interested members of the classes of 2016 and 2017 are welcome
-(and encouraged) to audition for R20.  Sign up now!
+(and encouraged) to audition for R20.  Stay tuned for spring auditions!
 
 We will be having an Open House
 in our room this Saturday (Sept. 14) from 8:30pm to 11pm so please stop by and say hi!  And if

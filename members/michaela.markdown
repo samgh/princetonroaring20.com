@@ -7,13 +7,13 @@ banner: /images/profiles/michaela.jpg
 fullname: Michaela Milgrom
 class: 2016
 voice: Alto
-major: Undecided
+major: Art History
 hometown: Toronto, Canada
 office: 
 arrangements: 
-solos: 
-activities: Princeton University Players
-interests: Food, sleep, theatre, literature of the Beat Generation, abstract expressionist art, socks
+solos: Gimme Shelter, Bleeding Love/No One, Here In Your Arms
+activities: Theatre Intime, Princeton Triangle Club, Princeton University Players
+interests: Food, sleep, theatre, abstract expressionist art, Kurt Vonnegut, socks.
 memory: 
 
 fun-q1: Place of Summer Residence Since Childhood

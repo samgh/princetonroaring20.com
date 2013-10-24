@@ -12,10 +12,10 @@ major: Undecided
 hometown: Sydney, Australia
 office: President
 arrangements: 
-solos: Broken Hearts medley
+solos: Broken Hearts medley, Bond, James Bond
 
 activities: JV Tennis, Pi Beta Phi Sorority
-interests: The beach, things that smell good, drinking (soda of course), European summers, costume parties, whipping my hair back and forth, FOOD
+interests: The beach, hiking, things that smell good, European summers, costume parties, cheese, flowers.
 
 fun-q1: Favorite movie to quote
 fun-a1: Mean Girls, Pineapple Express
