@@ -9,7 +9,7 @@ class: 2014
 voice: Soprano
 major: Art History
 hometown: Burbank, CA
-office: Performance Director
+office:
 arrangements: 
 solos: Bleeding Love, Spaceman, Speechless, Someone Like You, The Way I Am
 

@@ -10,7 +10,7 @@ class: 2015
 voice: Bass
 major: Computer Science
 hometown: Princeton, NJ
-office: Social Chair
+office:
 arrangements: 
 solos: Under The Bridge
 
