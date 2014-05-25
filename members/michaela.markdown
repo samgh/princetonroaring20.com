@@ -9,7 +9,7 @@ class: 2016
 voice: Alto
 major: Art History
 hometown: Toronto, Canada
-office: 
+office: Music Director
 arrangements: 
 solos: Gimme Shelter, Bleeding Love/No One, Here In Your Arms
 activities: Theatre Intime, Princeton Triangle Club, Princeton University Players

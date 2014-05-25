@@ -9,7 +9,7 @@ class: 2015
 voice: Tenor
 major: Undecided
 hometown: Charlotte, North Carolina
-office:
+office: President
 arrangements:
 solos:
 activities: Princeton Triangle Club, Orange Key, Princeton University Players

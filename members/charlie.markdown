@@ -8,18 +8,18 @@ fullname: Charlie Chao Wu
 nickname: 
 class: 2016
 voice: Bass
-major: Operations Research and Financial Engineering or Computer Science
+major: Computer Science
 hometown: Essex Junction, VT
-office: 
+office: Business Manager
 arrangements: 
-solos: 
+solos: Stacy's Mom
 
 activities: Giving tours to all of the Asian tourists via Orange Key
 interests: Sleeping, food, learning random stuff, music, online movies/television, food, and sleeping
 memory: 
 
 fun-q1: Countries visited
-fun-a1: 13
+fun-a1: 15
 fun-q2: Continents lived on
 fun-a2: 3
 fun-q3: Koalas cuddled
@@ -35,4 +35,4 @@ Charlie was conceived in Scotland, born in Australia, and raised in the United S
 
 For those of you who are still reading, Charlie lived in the Village of Essex Junction, VT for most of the 10 years prior to coming down to the Land of Strip Malls.  Yes, it’s actually a village.  He spent much of that time chugging maple syrup straight from the tree, skiing down mountains at high speeds, tipping cows, and shoveling snow by the ton and Ben and Jerry's by the pint.  Only one of these facts isn’t true. 
 
-Since arriving in the South, Charlie has taken advantage of every opportunity to wear shorts (i.e. whenever the temperature is above 45° F), and is proud to be the newest member of the Princeton Roaring 20!
+Since arriving in the South, Charlie has taken advantage of every opportunity to wear shorts (i.e. whenever the temperature is above 45° F), and is proud to be a member of the Princeton Roaring 20!

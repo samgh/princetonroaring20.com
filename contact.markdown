@@ -25,7 +25,7 @@ for your event, contact us!
 
 ### Contact Information
 
-John Plonk [jplonk@princeton.edu](mailto:jplonk@princeton.edu)
+Charlie Wu [cwu16@princeton.edu](mailto:cwu16@princeton.edu)
 
 ### Mailing Address
 

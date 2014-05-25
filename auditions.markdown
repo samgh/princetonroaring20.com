@@ -5,11 +5,11 @@ banner: /images/slideshow/004.jpg
 ---
 
 ## Auditions
-<!--
+
 <div class="auditions">
 <a href="https://wass.princeton.edu/pages/viewcalendar.page.php?cal_id=1134" id="auditions_button" target="_blank">Sign up now!</a>
 </div>
--->
+
 ### Audition Schedule
 
 All interested members of the classes of 2016 and 2017 are welcome
@@ -33,7 +33,7 @@ minutes.
 We begin the audition by introducing you to the group and getting to
 know a little bit about you - where you're from, where you live, etc.
 
-Then our Music Director, [Torin](/members/torin), will guide you
+Then our Music Director, [Michaela](/members/michaela), will guide you
 through some 5-tone scales to warm you up and test your range (though
 we definitely recommend warming up a bit on your own before the
 audition).

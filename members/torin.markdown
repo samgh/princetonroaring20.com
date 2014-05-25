@@ -10,7 +10,7 @@ class: 2014
 voice: Tenor
 major: Public Policy
 hometown: Eugene, OR
-office: Music Director
+office:
 arrangements: 
 solos: Always on My Mind
 
