@@ -41,34 +41,6 @@ a.profile {
 
 // Sopranos
 
-#anna {
-    .hidden {
-        @include profile('anna-b');
-    }
-    .image {
-        @include profile('anna');
-    }
-    &:hover {
-        .image {
-            @include profile('anna-b');
-        }
-    }
-}
-
-#christina {
-    .hidden {
-        @include profile('christina-b');
-    }
-    .image {
-        @include profile('christina');
-    }
-    &:hover {
-        .image {
-            @include profile('christina-b');
-        }
-    }
-}
-
 #marylou {
     .hidden {
         @include profile('marylou-b');
@@ -79,19 +51,6 @@ a.profile {
     &:hover {
         .image {
             @include profile('marylou-b');
-        }
-    }
-}
-#caroline {
-    .hidden {
-        @include profile('caroline-b');
-    }
-    .image {
-        @include profile('caroline');
-    }
-    &:hover {
-        .image {
-            @include profile('caroline-b');
         }
     }
 }
@@ -110,21 +69,35 @@ a.profile {
     }
 }
 
-// Altos
-
-#sarahanne {
+#carolineg {
     .hidden {
-        @include profile('sarahanne-b');
+        @include profile('carolineg-b');
     }
     .image {
-        @include profile('sarahanne');
+        @include profile('carolineg');
     }
     &:hover {
         .image {
-            @include profile('sarahanne-b');
+            @include profile('carolineg-b');
         }
     }
 }
+
+#deirdre {
+    .hidden {
+        @include profile('deirdre-b');
+    }
+    .image {
+        @include profile('deirdre');
+    }
+    &:hover {
+        .image {
+            @include profile('deirdre-b');
+        }
+    }
+}
+
+// Altos
 
 #desiree {
     .hidden {
@@ -182,35 +155,21 @@ a.profile {
     }
 }
 
+#chanyoung {
+    .hidden {
+        @include profile('chanyoung-b');
+    }
+    .image {
+        @include profile('chanyoung');
+    }
+    &:hover {
+        .image {
+            @include profile('chanyoung-b');
+        }
+    }
+}
+
 // Tenors
-
-#michael {
-    .hidden {
-        @include profile('michael-b');
-    }
-    .image {
-        @include profile('michael');
-    }
-    &:hover {
-        .image {
-            @include profile('michael-b');
-        }
-    }
-}
-
-#dk {
-    .hidden {
-        @include profile('dk-b');
-    }
-    .image {
-        @include profile('dk');
-    }
-    &:hover {
-        .image {
-            @include profile('dk-b');
-        }
-    }
-}
 
 #torin {
     .hidden {
@@ -226,19 +185,6 @@ a.profile {
     }
 }
 
-#brian {
-    .hidden {
-        @include profile('brian-b');
-    }
-    .image {
-        @include profile('brian');
-    }
-    &:hover {
-        .image {
-            @include profile('brian-b');
-        }
-    }
-}
 #sung {
     .hidden {
         @include profile('sung-b');
@@ -249,6 +195,20 @@ a.profile {
     &:hover {
         .image {
             @include profile('sung-b');
+        }
+    }
+}
+
+#brian {
+    .hidden {
+        @include profile('brian-b');
+    }
+    .image {
+        @include profile('brian');
+    }
+    &:hover {
+        .image {
+            @include profile('brian-b');
         }
     }
 }
@@ -267,35 +227,21 @@ a.profile {
     }
 }
 
+#keelan {
+    .hidden {
+        @include profile('keelan-b');
+    }
+    .image {
+        @include profile('keelan');
+    }
+    &:hover {
+        .image {
+            @include profile('keelan-b');
+        }
+    }
+}
+
 // Basses
-
-#teddy {
-    .hidden {
-        @include profile('teddy-b');
-    }
-    .image {
-        @include profile('teddy');
-    }
-    &:hover {
-        .image {
-            @include profile('teddy-b');
-        }
-    }
-}
-
-#jonah {
-    .hidden {
-        @include profile('jonah-b');
-    }
-    .image {
-        @include profile('jonah');
-    }
-    &:hover {
-        .image {
-            @include profile('jonah-b');
-        }
-    }
-}
 
 #sam {
     .hidden {
@@ -335,6 +281,34 @@ a.profile {
     &:hover {
         .image {
             @include profile('charlie-b');
+        }
+    }
+}
+
+#blake {
+    .hidden {
+        @include profile('blake-b');
+    }
+    .image {
+        @include profile('blake');
+    }
+    &:hover {
+        .image {
+            @include profile('blake-b');
+        }
+    }
+}
+
+#andy {
+    .hidden {
+        @include profile('andy-b');
+    }
+    .image {
+        @include profile('andy');
+    }
+    &:hover {
+        .image {
+            @include profile('andy-b');
         }
     }
 }
