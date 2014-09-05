@@ -7,22 +7,22 @@ banner: /images/profiles/blake.jpg
 fullname: Blake Feldman
 class: 2017
 voice: Bass
-major: Undecided
+major: Molecular Biology
 hometown: Reno, Nevada
 office: 
 arrangements: 
 solos:
 
-activities:
-interests:
+activities: Captain in PUDS, Tour Manager in R20
+interests: Music, Medicine
 memory:
 
-fun-q1: 
-fun-a1: 
-fun-q2: 
-fun-a2: 
-fun-q3: 
-fun-a3: 
+fun-q1: Born in a blizzard
+fun-a1: Heightened resistance to cold
+fun-q2: Lives in a desert
+fun-a2: Heightened resistance to heat
+fun-q3: Avoids Burning Man
+fun-a3: Heightened resistance to hipsters
 
 ---
 

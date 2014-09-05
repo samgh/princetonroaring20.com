@@ -7,21 +7,21 @@ banner: /images/profiles/deirdre.jpg
 fullname: Deirdre Ely
 class: 2017
 voice: Soprano
-major: 
-hometown: 
+major: Politics or Woodrow Wilson School
+hometown: London, UK via Greensboro, VT
 office: 
 arrangements: 
 solos: 
-activities:
-interests: 
+activities: Content Editor for Stripe Magazine, R20
+interests: Violin, learning languages, drinking tea, reading
 memory: 
 
-fun-q1:
-fun-a1:
-fun-q2:
-fun-a2:
-fun-q3:
-fun-a3:
+fun-q1: Number of times recording in the Beatles' studio in Abbey Road Studios
+fun-a1: 5
+fun-q2: The amount of time you have from my house in Vermont in order to find adequate cell phone service
+fun-a2: 40 minutes
+fun-q3: Favorite book
+fun-a3: A tie between Catch-22 and Pride and Prejudice
 
 ---
 

@@ -32,8 +32,8 @@ weekly rehearsals, each lasting for an hour and a half, as well as
 weekly sectional practices. These rehearsals take place in our very
 own room, located at 071 Bloomberg Hall. In addition to the bi-weekly
 archsings, we perform local shows on weekends, and take two week-long
-tours around the world. Our tour destinations have included the
-Dominican Republic, Paris, the Virgin Islands, Montreal, Italy, and
+tours around the world. Our tour destinations have included Germany, 
+Palm Beach, Toronto, the Dominican Republic, Paris, Italy, and
 Los Angeles (the set of 'The Price is Right').
 
 For general inquiries about the group, e-mail us at

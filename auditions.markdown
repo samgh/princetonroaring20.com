@@ -12,8 +12,8 @@ banner: /images/slideshow/004.jpg
 
 ### Audition Schedule
 
-All interested members of the classes of 2016 and 2017 are welcome
-(and encouraged) to audition for R20.  Stay tuned for spring auditions!
+All interested members of the classes of 2017 and 2018 are welcome
+(and encouraged) to audition for R20.  Click above to sign up for fall auditions!
 
 We will be having an Open House
 in our room this Saturday (Sept. 14) from 8:30pm to 11pm so please stop by and say hi!  And if

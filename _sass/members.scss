@@ -41,20 +41,6 @@ a.profile {
 
 // Sopranos
 
-#marylou {
-    .hidden {
-        @include profile('marylou-b');
-    }
-    .image {
-        @include profile('marylou');
-    }
-    &:hover {
-        .image {
-            @include profile('marylou-b');
-        }
-    }
-}
-
 #erika {
     .hidden {
         @include profile('erika-b');
@@ -113,20 +99,6 @@ a.profile {
     }
 }
 
-#katherine {
-    .hidden {
-        @include profile('katherine-b');
-    }
-    .image {
-        @include profile('katherine');
-    }
-    &:hover {
-        .image {
-            @include profile('katherine-b');
-        }
-    }
-}
-
 #viv {
     .hidden {
         @include profile('viv-b');
@@ -170,34 +142,6 @@ a.profile {
 }
 
 // Tenors
-
-#torin {
-    .hidden {
-        @include profile('torin-b');
-    }
-    .image {
-        @include profile('torin');
-    }
-    &:hover {
-        .image {
-            @include profile('torin-b');
-        }
-    }
-}
-
-#sung {
-    .hidden {
-        @include profile('sung-b');
-    }
-    .image {
-        @include profile('sung');
-    }
-    &:hover {
-        .image {
-            @include profile('sung-b');
-        }
-    }
-}
 
 #brian {
     .hidden {
