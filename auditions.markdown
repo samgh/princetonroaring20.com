@@ -70,4 +70,4 @@ And then you're done! A member of Roaring 20 will come by your room
 later that night to let you know if we have decided to call you back.
 
 If you have any questions, contact us at
-[roaring@princeton.edu](mailto:roaring@princeton.edu).
+[princetonroaring20@gmail.com](mailto:princetonroaring20@gmail.com).

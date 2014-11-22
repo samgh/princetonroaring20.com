@@ -83,6 +83,20 @@ a.profile {
     }
 }
 
+#izzy {
+    .hidden {
+        @include profile('izzy-b');
+    }
+    .image {
+        @include profile('izzy');
+    }
+    &:hover {
+        .image {
+            @include profile('izzy-b');
+        }
+    }
+}
+
 // Altos
 
 #desiree {
@@ -141,6 +155,20 @@ a.profile {
     }
 }
 
+#becca {
+    .hidden {
+        @include profile('becca-b');
+    }
+    .image {
+        @include profile('becca');
+    }
+    &:hover {
+        .image {
+            @include profile('becca-b');
+        }
+    }
+}
+
 // Tenors
 
 #brian {
@@ -181,6 +209,20 @@ a.profile {
     &:hover {
         .image {
             @include profile('keelan-b');
+        }
+    }
+}
+
+#kevin {
+    .hidden {
+        @include profile('kevin-b');
+    }
+    .image {
+        @include profile('kevin');
+    }
+    &:hover {
+        .image {
+            @include profile('kevin-b');
         }
     }
 }
@@ -253,6 +295,20 @@ a.profile {
     &:hover {
         .image {
             @include profile('andy-b');
+        }
+    }
+}
+
+#galen {
+    .hidden {
+        @include profile('galen-b');
+    }
+    .image {
+        @include profile('galen');
+    }
+    &:hover {
+        .image {
+            @include profile('galen-b');
         }
     }
 }

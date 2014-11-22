@@ -37,4 +37,4 @@ Palm Beach, Toronto, the Dominican Republic, Paris, Italy, and
 Los Angeles (the set of 'The Price is Right').
 
 For general inquiries about the group, e-mail us at
-[roaring@princeton.edu](mailto:roaring@princeton.edu).
+[princetonroaring20@gmail.com](mailto:princetonroaring20@gmail.com).

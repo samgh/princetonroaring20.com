@@ -130,29 +130,30 @@ Your browser does not support the audio element.
     </tr>
   </thead>
   <tbody>
+    <!--
     <tr> 
       <td>Always on my Mind</td> 
       <td>Phantom Planet</td> 
       <td>Dengel '10</td> 
       <td>Torin Rudeen '14</td> 
-    </tr>
+    </tr>-->
     <tr> 
       <td>And So it Goes</td> 
       <td>Billy Joel</td> 
       <td>Pearson '94</td> 
-      <td>Torin Rudeen '14</td> 
+      <td>Ben Spar '16</td> 
     </tr> 
     <tr> 
       <td>Better Man</td> 
       <td>Pearl Jam</td> 
       <td>Powell '13</td> 
-      <td>Katherine Ortmeyer '14</td> 
+      <td>Michaela Milgrom '16</td> 
     </tr> 
     <tr> 
       <td>Bleeding Love / No One</td> 
       <td>Leona Lewis / Alicia Keys</td> 
       <td>Dengel '10</td> 
-      <td>Mary Lou Kolbenschlag '14 <br /> Michaela Milgrom '16</td> 
+      <td>Caroline Griffin '17<br /> Michaela Milgrom '16</td> 
     </tr> 
     <tr> 
       <td>Blue Skies</td> 
@@ -164,7 +165,7 @@ Your browser does not support the audio element.
       <td>Boston</td> 
       <td>Augstana</td> 
       <td>Thompson '11</td> 
-      <td>Sungmin Cho '14</td> 
+      <td>Keelan Smithers '17</td> 
     </tr> 
     <tr> 
       <td>Boyfriend/Girlfriend</td> 
@@ -188,7 +189,7 @@ Your browser does not support the audio element.
       <td>Come on Get Higher</td> 
       <td>Matt Nathanson</td> 
       <td>Powell '13</td> 
-      <td>Sungmin Cho '14 <br /> Katherine Ortmeyer '14</td> 
+      <td>Brian Lax '15 <br /> Viv Chan '15</td> 
     </tr> 
     <!-- why doe :'(
     <tr> 
@@ -220,7 +221,13 @@ Your browser does not support the audio element.
       <td>The Rolling Stones</td> 
       <td>Powell '13</td> 
       <td>Sam Gavis-Hughson '15 <br /> Michaela Milgrom '16</td> 
-    </tr> 
+    </tr>
+    <tr> 
+      <td>Give Me Love</td> 
+      <td>Ed Sheeran</td> 
+      <td>Powell '13</td> 
+      <td>Keelan Smithers '17</td> 
+    </tr>
     <tr> 
       <td>Here in Your Arms</td> 
       <td>Hellogoodbye</td> 
@@ -231,7 +238,7 @@ Your browser does not support the audio element.
       <td>Here With Me</td> 
       <td>Dido</td> 
       <td>Sheldon '02</td> 
-      <td>Caroline Hertz '15 <br /> Viv Chan '15</td> 
+      <td>Viv Chan '15</td> 
     </tr>
     <tr> 
       <td>Hey Jude</td> 
@@ -267,19 +274,19 @@ Your browser does not support the audio element.
       <td>James Bond Medley</td> 
       <td>Monty Norman / Shirley Bassey / Chris Cornell</td> 
       <td>Powell '13</td> 
-      <td>Viv Chan '15 <br /> Torin Rudeen '14</td> 
+      <td>Viv Chan '15 <br /> Charlie Wu '16</td> 
     </tr>
     <tr> 
       <td>Kiss Him Goodbye</td> 
       <td>The Nylons / Steam</td> 
       <td>Padula '89 <br /> Lee '92</td> 
-      <td>Michael Pearlman '13</td>
+      <td>Keelan Smithers '17</td>
     </tr>
     <tr> 
       <td>Last Request</td> 
       <td>Paolo Nutini</td> 
       <td>Dengel '10</td> 
-      <td>Katherine Ortmeyer '14</td> 
+      <td>Chanyoung Park '17</td> 
     </tr>
     <tr> 
       <td>The Lullaby of Broadway</td> 
@@ -333,19 +340,19 @@ Your browser does not support the audio element.
       <td>The Scientist</td> 
       <td>Coldplay</td> 
       <td>Thompson '11</td> 
-      <td>Torin Rudeen '14</td> 
+      <td>Erika Baikoff '16</td> 
     </tr>
     <tr> 
       <td>Somebody to Love</td> 
       <td>Queen</td> 
       <td>Khwarg '05</td> 
-      <td>Mary Lou Kolbenschlag '14 </td> 
+      <td>Michaela Milgrom '16</td> 
     </tr>
     <tr> 
       <td>Spaceman</td> 
       <td>The Killers</td> 
       <td>Powell '13</td> 
-      <td>John Plonk '15 <br /> Mary Lou Kolbenschlag '14</td> 
+      <td>John Plonk '15 <br /> Caroline Griffin '17</td> 
     </tr>
     <tr> 
       <td>Speechless</td> 
@@ -357,7 +364,7 @@ Your browser does not support the audio element.
       <td>Stacy's Mom</td> 
       <td>Fountains of Wayne</td> 
       <td>Marcovitz '06</td> 
-      <td>Charlie Wu '16 <br /> Erika Baikoff '16</td> 
+      <td>Charlie Wu '16 <br /> Michaela Milgrom '16</td> 
     </tr>
     <tr> 
       <td>Summer Moon</td> 
@@ -405,7 +412,13 @@ Your browser does not support the audio element.
       <td>The Way I Am</td> 
       <td>Ingrid Michaelson</td> 
       <td>Buettner '09 <br /> Dengel '10</td> 
-      <td>Mary Lou Kolbenschlag '14</td> 
+      <td>Erika Baikoff '16</td> 
+    </tr>
+    <tr> 
+      <td>You Know I'm No Good</td> 
+      <td>Amy Winehouse</td> 
+      <td>Milgrom '16</td> 
+      <td>Milgrom '16</td> 
     </tr>
   </tbody>
 </table> 
