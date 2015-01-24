@@ -45,61 +45,61 @@ mmilgrom@princeton.edu.
 
 ### Audio Clips
 * [Fly Me To The Moon - Frank Sinatra](#)  
-<audio src="/clips/FlyMeToTheMoon.mp3" controls="controls">
-Your browser does not support the audio element.
-</audio>
+  <audio src="/clips/FlyMeToTheMoon.mp3" controls="controls">
+  Your browser does not support the audio element.
+  </audio>
 * [Bleeding Love/No One - Leona Lewis/Alicia Keys](#)  
-<audio src="/clips/BleedingLove.mp3" controls="controls">
-Your browser does not support the audio element.
-</audio>
+  <audio src="/clips/BleedingLove.mp3" controls="controls">
+  Your browser does not support the audio element.
+  </audio>
 * [Spaceman - The Killers](#)  
-<audio src="/clips/Spaceman.mp3" controls="controls">
-Your browser does not support the audio element.
-</audio>
+  <audio src="/clips/Spaceman.mp3" controls="controls">
+  Your browser does not support the audio element.
+  </audio>
 * [The Scientist - Coldplay](#)  
-<audio src="/clips/TheScientist.mp3" controls="controls">
-Your browser does not support the audio element.
-</audio>
+  <audio src="/clips/TheScientist.mp3" controls="controls">
+  Your browser does not support the audio element.
+  </audio>
 * [Hide and Seek - Imogen Heap](#)  
-<audio src="/clips/HideAndSeek.mp3" controls="controls">
-Your browser does not support the audio element.
-</audio>
+  <audio src="/clips/HideAndSeek.mp3" controls="controls">
+  Your browser does not support the audio element.
+  </audio>
 * [Creep - Radiohead](#)  
-<audio src="/clips/Creep.mp3" controls="controls">
-Your browser does not support the audio element.
-</audio>
+  <audio src="/clips/Creep.mp3" controls="controls">
+  Your browser does not support the audio element.
+  </audio>
 * [Somebody to Love - Queen](#)  
-<audio src="/clips/Somebody.mp3" controls="controls">
-Your browser does not support the audio element.
-</audio>
+  <audio src="/clips/Somebody.mp3" controls="controls">
+  Your browser does not support the audio element.
+  </audio>
 * [Under the Bridge - Red Hot Chili Peppers](#)  
-<audio src="/clips/UnderTheBridge.mp3" controls="controls">
-Your browser does not support the audio element.
-</audio>
+  <audio src="/clips/UnderTheBridge.mp3" controls="controls">
+  Your browser does not support the audio element.
+  </audio>
 * [Chocolate - Snow Patrol](#)  
-<audio src="/clips/Chocolate.mp3" controls="controls">
-Your browser does not support the audio element.
-</audio>
+  <audio src="/clips/Chocolate.mp3" controls="controls">
+  Your browser does not support the audio element.
+  </audio>
 * [Crazy - Seal](#)  
-<audio src="/clips/Crazy.mp3" controls="controls">
-Your browser does not support the audio element.
-</audio>
+  <audio src="/clips/Crazy.mp3" controls="controls">
+  Your browser does not support the audio element.
+  </audio>
 * [Dream a Little Dream of Me - The Mamas and the Papas](#)  
-<audio src="/clips/Dream.mp3" controls="controls">
-Your browser does not support the audio element.
-</audio>
+  <audio src="/clips/Dream.mp3" controls="controls">
+  Your browser does not support the audio element.
+  </audio>
 * [Here With Me - Dido](#)  
-<audio src="/clips/Dido.mp3" controls="controls">
-Your browser does not support the audio element.
-</audio>
+  <audio src="/clips/Dido.mp3" controls="controls">
+  Your browser does not support the audio element.
+  </audio>
 * [I'm Beginning to See the Light - Duke Ellington](#)  
-<audio src="/clips/ToSee.mp3" controls="controls">
-Your browser does not support the audio element.
-</audio>
+  <audio src="/clips/ToSee.mp3" controls="controls">
+  Your browser does not support the audio element.
+  </audio>
 * [Total Eclipse of the Heart - Bonnie Tyler/Nikki French](#)  
-<audio src="/clips/Total.mp3" controls="controls">
-Your browser does not support the audio element.
-</audio>
+  <audio src="/clips/Total.mp3" controls="controls">
+  Your browser does not support the audio element.
+  </audio>
 
 ### Video Clips
 
@@ -130,13 +130,6 @@ Your browser does not support the audio element.
     </tr>
   </thead>
   <tbody>
-    <!--
-    <tr> 
-      <td>Always on my Mind</td> 
-      <td>Phantom Planet</td> 
-      <td>Dengel '10</td> 
-      <td>Torin Rudeen '14</td> 
-    </tr>-->
     <tr> 
       <td>And So it Goes</td> 
       <td>Billy Joel</td> 
@@ -190,14 +183,7 @@ Your browser does not support the audio element.
       <td>Matt Nathanson</td> 
       <td>Powell '13</td> 
       <td>Brian Lax '15 <br /> Viv Chan '15</td> 
-    </tr> 
-    <!-- why doe :'(
-    <tr> 
-      <td>Crazy</td> 
-      <td>Seal</td> 
-      <td>Sheldon '02</td> 
-      <td>Teddy Eyster '12 <br /> Sarah Anne Sillers '12</td> 
-    </tr>-->
+    </tr>
     <tr> 
       <td>Dream a Little Dream of Me</td> 
       <td>The Mamas and the Papas</td> 

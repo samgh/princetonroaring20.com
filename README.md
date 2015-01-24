@@ -7,5 +7,6 @@ Website for the Princeton Roaring 20 a cappella group built using jekyll, compas
 ```
 bundle install
 compass compile
-jekyll
+jekyll build
+jekyll serve
 ```

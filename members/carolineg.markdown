@@ -9,7 +9,7 @@ class: 2017
 voice: Soprano
 major: Economics
 hometown: New York City
-office: 
+office: Business Manager
 arrangements: 
 solos:
 

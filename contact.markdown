@@ -25,7 +25,7 @@ for your event, contact us!
 
 ### Contact Information
 
-Charlie Wu [cwu16@princeton.edu](mailto:cwu16@princeton.edu)
+Caroline Griffin [clg3@princeton.edu](mailto:clg3@princeton.edu)
 
 ### Mailing Address
 

@@ -7,9 +7,9 @@ banner: /images/profiles/ben.jpg
 fullname: Ben Spar
 class: 2016
 voice: Tenor
-major: Undeclared, probably Computer Science
+major: Computer Science
 hometown: Farmington, Connecticut
-office: 
+office: Music Director
 arrangements: 
 solos: 
 activities: Glee Club

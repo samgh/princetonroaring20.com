@@ -10,7 +10,7 @@ class: 2016
 voice: Bass
 major: Computer Science
 hometown: Essex Junction, VT
-office: Business Manager
+office: President
 arrangements: 
 solos: Stacy's Mom
 

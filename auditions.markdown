@@ -5,19 +5,19 @@ banner: /images/slideshow/004.jpg
 ---
 
 ## Auditions
-
+<!--
 <div class="auditions">
-<a href="https://wass.princeton.edu/pages/viewcalendar.page.php?cal_id=1134" id="auditions_button" target="_blank">Sign up now!</a>
-</div>
+</div>-->
 
 ### Audition Schedule
 
 All interested members of the classes of 2017 and 2018 are welcome
-(and encouraged) to audition for R20.  Click above to sign up for fall auditions!
-
+(and encouraged) to audition for R20.  Come back soon to sign up for spring auditions!
+<!--
 We will be having an Open House
 in our room this Saturday (Sept. 14) from 8:30pm to 11pm so please stop by and say hi!  And if
 you're ready to sign up for an audition, click right above.  See you there!
+-->
 
 ### Audition Location
 
@@ -33,7 +33,7 @@ minutes.
 We begin the audition by introducing you to the group and getting to
 know a little bit about you - where you're from, where you live, etc.
 
-Then our Music Director, [Michaela](/members/michaela), will guide you
+Then our Music Director, [Ben](/members/ben), will guide you
 through some 5-tone scales to warm you up and test your range (though
 we definitely recommend warming up a bit on your own before the
 audition).
